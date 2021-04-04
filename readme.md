@@ -8,7 +8,7 @@ The N-Puzzler is a simple program to solve N Puzzles (or NxN Puzzles). N Puzzle 
 
 #### Usage: ####
 
-	nPuzzler.bat <file> <method>
+	nPuzzler.bat <filename> <method parameter>
 
 N-Puzzler takes two arguments:
 	1. The first refers to a text file which contains one or more n-puzzles.
